@@ -1,0 +1,565 @@
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\appsettings.Development.json
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\appsettings.json
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Bloggie.Web.staticwebassets.runtime.json
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Bloggie.Web.exe
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Bloggie.Web.deps.json
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Bloggie.Web.runtimeconfig.json
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Bloggie.Web.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Bloggie.Web.pdb
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Azure.Core.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Azure.Identity.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Humanizer.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.CodeDom.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Memory.Data.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.csproj.AssemblyReference.cache
+E:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.AssemblyInfoInputs.cache
+E:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.AssemblyInfo.cs
+E:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.csproj.CoreCompileInputs.cache
+E:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.RazorAssemblyInfo.cache
+E:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.RazorAssemblyInfo.cs
+E:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets.build.json
+E:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets.development.json
+E:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets\msbuild.Bloggie.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Bloggie.Web.props
+E:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bloggie.Web.props
+E:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bloggie.Web.props
+E:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets.pack.json
+E:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\scopedcss\bundle\Bloggie.Web.styles.css
+E:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\scopedcss\projectbundle\Bloggie.Web.bundle.scp.css
+E:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie..735B77A1.Up2Date
+E:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\refint\Bloggie.Web.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.pdb
+E:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.genruntimeconfig.cache
+E:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\ref\Bloggie.Web.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\appsettings.Development.json
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\appsettings.json
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Bloggie.Web.staticwebassets.runtime.json
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Bloggie.Web.exe
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Bloggie.Web.deps.json
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Bloggie.Web.runtimeconfig.json
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Bloggie.Web.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Bloggie.Web.pdb
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Azure.Core.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Azure.Identity.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Humanizer.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.CodeDom.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Memory.Data.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.csproj.AssemblyReference.cache
+D:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.AssemblyInfoInputs.cache
+D:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.AssemblyInfo.cs
+D:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.csproj.CoreCompileInputs.cache
+D:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.RazorAssemblyInfo.cache
+D:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.RazorAssemblyInfo.cs
+D:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets\msbuild.Bloggie.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Bloggie.Web.props
+D:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bloggie.Web.props
+D:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bloggie.Web.props
+D:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\scopedcss\bundle\Bloggie.Web.styles.css
+D:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\scopedcss\projectbundle\Bloggie.Web.bundle.scp.css
+D:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie..735B77A1.Up2Date
+D:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\refint\Bloggie.Web.dll
+D:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.pdb
+D:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.genruntimeconfig.cache
+D:\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net8.0\ref\Bloggie.Web.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\CloudinaryDotNet.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\dotenv.net.dll
+E:\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\appsettings.Development.json
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\appsettings.json
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Bloggie.Web.staticwebassets.runtime.json
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Bloggie.Web.exe
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Bloggie.Web.deps.json
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Bloggie.Web.runtimeconfig.json
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Bloggie.Web.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Bloggie.Web.pdb
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Azure.Core.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Azure.Identity.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\CloudinaryDotNet.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\dotenv.net.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Humanizer.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.CodeDom.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Memory.Data.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.csproj.AssemblyReference.cache
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.AssemblyInfoInputs.cache
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.AssemblyInfo.cs
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.csproj.CoreCompileInputs.cache
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.RazorAssemblyInfo.cache
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.RazorAssemblyInfo.cs
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets.build.json
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets.development.json
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets\msbuild.Bloggie.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Bloggie.Web.props
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bloggie.Web.props
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bloggie.Web.props
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets.pack.json
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\scopedcss\bundle\Bloggie.Web.styles.css
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\scopedcss\projectbundle\Bloggie.Web.bundle.scp.css
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie..735B77A1.Up2Date
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\refint\Bloggie.Web.dll
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.pdb
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.genruntimeconfig.cache
+E:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\ref\Bloggie.Web.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.csproj.AssemblyReference.cache
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.AssemblyInfoInputs.cache
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.AssemblyInfo.cs
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.csproj.CoreCompileInputs.cache
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.RazorAssemblyInfo.cache
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.RazorAssemblyInfo.cs
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\appsettings.Development.json
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\appsettings.json
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Bloggie.Web.staticwebassets.runtime.json
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Bloggie.Web.exe
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Bloggie.Web.deps.json
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Bloggie.Web.runtimeconfig.json
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Bloggie.Web.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Bloggie.Web.pdb
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Azure.Core.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Azure.Identity.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\CloudinaryDotNet.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\dotenv.net.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Humanizer.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.CodeDom.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Memory.Data.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets\msbuild.Bloggie.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Bloggie.Web.props
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bloggie.Web.props
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bloggie.Web.props
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\scopedcss\bundle\Bloggie.Web.styles.css
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\scopedcss\projectbundle\Bloggie.Web.bundle.scp.css
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie..735B77A1.Up2Date
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\refint\Bloggie.Web.dll
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.pdb
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.genruntimeconfig.cache
+D:\BloggieMVC\WIth Login\Bloggie\Bloggie.Web\obj\Debug\net8.0\ref\Bloggie.Web.dll
